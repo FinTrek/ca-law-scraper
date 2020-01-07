@@ -1,0 +1,37 @@
+With official numbers:
+For those where OfficialNumber=ChapterNumber:
+(Revised Statutes of Canada/Lois révisées du Canada)
+```
+Canada Labour Code (R.S.C., 1985, c. L-2)
+<ShortTitle> (R.S.C., 1985, c. <OfficialNumber>)
+Code canadien du travail (L.R.C. (1985), ch. L-2)
+<ShortTitle> (L.R.C., (1985), ch. <OfficialNumber>)
+```
+For those otherwise:
+(Statutes of Canada/Lois du Canada)
+```
+Controlled Drugs and Substances Act (S.C. 1996, c. 19)
+<ShortTitle> (S.C., <OfficialNumber>)
+Loi réglementant certaines drogues et autres substances (L.C. 1996, ch. 19)
+<ShortTitle> (L.C., <OfficialNumber>)
+```
+
+For regulations:
+C.R.C.: Consolidated Regulations of Canada/Codification des règlements du Canada
+DORS: Décrets, ordonnances et règlements statutaires
+SI: Statutory Instruments
+SOR: Statutory Orders and Regulations
+TR: Textes réglementaires
+```
+Food and Drug Regulations (C.R.C., c. 870)
+<ShortTitle> (<OfficialNumber>)
+```
+
+
+
+External references marked as:
+```
+<Text>
+Nisga’a Government, as defined in the Nisga’a Final Agreement given effect by the
+<XRefExternal reference-type="act" link="N-23.3">Nisga’a Final Agreement Act</XRefExternal>;</Text>
+```

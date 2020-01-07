@@ -1,4 +1,20 @@
 {
+	"commits_act_new": {
+		"en": "Created new Act: ",
+		"fr": "Nouvelle loi créé : "
+	},
+	"commits_act_update": {
+		"en": "Changes made to Act ",
+		"fr": "Modifications apportées à la loi "
+	},
+	"commits_reg_new": {
+		"en": "Created new regulation: ",
+		"fr": "Nouveau règlement créé : "
+	},
+	"commits_reg_update": {
+		"en": "Changes made to regulation ",
+		"fr": "Modifications apportées au règlement "
+	},
 	"act": {
 		"en": "Act",
 		"fr": "Loi"
@@ -6,5 +22,271 @@
 	"regulation": {
 		"en": "Regulation",
 		"fr": "Règlement"
+	},
+	"acts": {
+		"en": "Acts",
+		"fr": "Lois"
+	},
+	"regulations": {
+		"en": "Regulations",
+		"fr": "Règlements"
+	},
+	"rsc": {
+		"en": "Revised Statutes of Canada",
+		"fr": "Lois révisées du Canada"
+	},
+	"sc": {
+		"en": "Statutes of Canada",
+		"fr": "Lois du Canada"
+	},
+	"rsc_acronym": {
+		"en": "R.S.C.",
+		"fr": "L.R.C."
+	},
+	"sc_acronym": {
+		"en": "S.C.",
+		"fr": "L.C."
+	},
+	"crc": {
+		"en": "Consolidated Regulations of Canada",
+		"fr": "Codification des règlements du Canada"
+	},
+	"sor": {
+		"en": "Statutory Orders and Regulations",
+		"fr": "Décrets, ordonnances et règlements statutaires"
+	},
+	"si": {
+		"en": "Statutory Instruments",
+		"fr": "Textes réglementaires"
+	},
+	"crc_acronym": {
+		"en": "C.R.C.",
+		"fr": "C.R.C."
+	},
+	"sor_acronym": {
+		"en": "SOR",
+		"fr": "DORS"
+	},
+	"si_acronym": {
+		"en": "SI",
+		"fr": "TR"
+	},
+	"chapter_prefix": {
+		"en": "c.",
+		"fr": "ch."
+	},
+	"switch_language_link": {
+		"en": "Go to French version",
+		"fr": "Aller à la version anglaise"
+	},
+	"registration_date_label": {
+		"en": "Date registered: ",
+		"fr": "Date d'enregistrement : "
+	},
+	"assent_date_label": {
+		"en": "Assented to on ",
+		"fr": "Sanctionnée sur le "
+	},
+	"enabling_authorities": {
+		"en": "Enabling authorities: ",
+		"fr": "Autorités habilitantes : "
+	},
+	"image_no_alt": {
+		"en": "[*RENDERING ERROR*: Inline image has no description.]",
+		"fr": "[*ERREUR DE RENDU*: Image en ligne n'a aucune description.]"
+	},
+	"mathml_substitute": {
+		"en": "[*RENDERING ERROR*: This section contains a complex equation that cannot be rendered in Markdown.]",
+		"fr": "[*ERREUR DE RENDU*: Cette section contient une équation complexe qui ne peut être affiché en Markdown.]"
+	},
+	"months": {
+		"1": {
+			"en": "January",
+			"fr": "janvier"
+		},
+		"2": {
+			"en": "February",
+			"fr": "février"
+		},
+		"3": {
+			"en": "March",
+			"fr": "mars"
+		},
+		"4": {
+			"en": "April",
+			"fr": "avril"
+		},
+		"5": {
+			"en": "May",
+			"fr": "mai"
+		},
+		"5 ": {
+			"en": "May",
+			"fr": "mai"
+		},
+		"6": {
+			"en": "June",
+			"fr": "juin"
+		},
+		"7": {
+			"en": "July",
+			"fr": "juillet"
+		},
+		"8": {
+			"en": "August",
+			"fr": "août"
+		},
+		"8 ": {
+			"en": "August",
+			"fr": "août"
+		},
+		"9": {
+			"en": "September",
+			"fr": "septembre"
+		},
+		"10": {
+			"en": "October",
+			"fr": "octobre"
+		},
+		"11": {
+			"en": "November",
+			"fr": "novembre"
+		},
+		"12": {
+			"en": "December",
+			"fr": "décembre"
+		},
+		"01": {
+			"en": "January",
+			"fr": "janvier"
+		},
+		"02": {
+			"en": "February",
+			"fr": "février"
+		},
+		"03": {
+			"en": "March",
+			"fr": "mars"
+		},
+		"04": {
+			"en": "April",
+			"fr": "avril"
+		},
+		"05": {
+			"en": "May",
+			"fr": "mai"
+		},
+		"06": {
+			"en": "June",
+			"fr": "juin"
+		},
+		"07": {
+			"en": "July",
+			"fr": "juillet"
+		},
+		"08": {
+			"en": "August",
+			"fr": "août"
+		},
+		"09": {
+			"en": "September",
+			"fr": "septembre"
+		},
+		"January": {
+			"en": "January",
+			"fr": "janvier"
+		},
+		"February": {
+			"en": "February",
+			"fr": "février"
+		},
+		"March": {
+			"en": "March",
+			"fr": "mars"
+		},
+		"April": {
+			"en": "April",
+			"fr": "avril"
+		},
+		"May": {
+			"en": "May",
+			"fr": "mai"
+		},
+		"June": {
+			"en": "June",
+			"fr": "juin"
+		},
+		"July": {
+			"en": "July",
+			"fr": "juillet"
+		},
+		"August": {
+			"en": "August",
+			"fr": "août"
+		},
+		"September": {
+			"en": "September",
+			"fr": "septembre"
+		},
+		"October": {
+			"en": "October",
+			"fr": "octobre"
+		},
+		"November": {
+			"en": "November",
+			"fr": "novembre"
+		},
+		"December": {
+			"en": "December",
+			"fr": "décembre"
+		},
+		"janvier": {
+			"en": "January",
+			"fr": "janvier"
+		},
+		"février": {
+			"en": "February",
+			"fr": "février"
+		},
+		"mars": {
+			"en": "March",
+			"fr": "mars"
+		},
+		"avril": {
+			"en": "April",
+			"fr": "avril"
+		},
+		"mai": {
+			"en": "May",
+			"fr": "mai"
+		},
+		"juin": {
+			"en": "June",
+			"fr": "juin"
+		},
+		"juillet": {
+			"en": "July",
+			"fr": "juillet"
+		},
+		"août": {
+			"en": "August",
+			"fr": "août"
+		},
+		"septembre": {
+			"en": "September",
+			"fr": "septembre"
+		},
+		"octobre": {
+			"en": "October",
+			"fr": "octobre"
+		},
+		"novembre": {
+			"en": "November",
+			"fr": "novembre"
+		},
+		"décembre": {
+			"en": "December",
+			"fr": "décembre"
+		}
 	}
 }
